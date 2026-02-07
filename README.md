@@ -88,12 +88,13 @@
             rose.style.fontSize = (20 + Math.random() * 20) + "px";
             document.body.appendChild(rose);
         }
-    </script>
-
+        </script>
+    
     <!-- Main Card -->
     <div class="card">
-        <h1>Happy Rose Day</h1>
-        <h2> My lovely wife Kausar Qureshi 🌹</h2>
+    <h1>Happy Rose Day</h1>
+    
+<h2> My lovely wife Kausar Qureshi 🌹</h2>
         <p>
             Just like a rose,<br>
             you fill my life with beauty,<br>
