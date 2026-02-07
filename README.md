@@ -93,19 +93,20 @@
     <!-- Main Card -->
     <div class="card">
         <h1>Happy Rose Day</h1>
-        <h2>Kausar Qureshi 🌹</h2>
+        <h2> My lovely wife Kausar Qureshi 🌹</h2>
         <p>
             Just like a rose,<br>
             you fill my life with beauty,<br>
             love, and fragrance. 💖<br><br>
-            Every petal reminds me of your smile,<br>
-            and every rose reminds me how lucky I am<br>
-            to have you.
+            Dooriyan hai hamare beech lekin
+            Jeetenge ham hi ek din honi in faslon ki haar hai,<br>
+            love you so much my princess<br>
+            love you so much my forever.
         </p>
         <div class="heart">❤️</div>
         <div class="footer">
             Forever yours,<br>
-            <strong>Anwar</strong>
+            <strong>Anwar ansari</strong>
         </div>
     </div>
 
